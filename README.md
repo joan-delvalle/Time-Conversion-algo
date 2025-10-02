@@ -1,1 +1,1 @@
-# Time-Conversion-algo
+# Time-Conversion-algo This program converts a given time from 12-hour format with AM/PM into 24-hour military time. It reads the input, processes it using DateTime.ParseExact, and then outputs the time in "HH:mm:ss" format. For example, 07:05:45PM becomes 19:05:45.
